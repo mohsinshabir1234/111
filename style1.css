@@ -1,0 +1,150 @@
+.logo{
+    width:10%;
+    position: relative;
+    padding:5px;
+}
+.ape{
+   padding-top:5px;
+   position: absolute;
+   top:01%;
+   left:15%;
+   border: 10%;
+
+}
+.ape > button{
+    outline: medium none;
+}
+.alp {
+    padding-right:10px;
+    margin-right:20px;
+}
+.head{
+    padding-right:10px;
+    margin-right:20px;
+    padding:10px;
+    font-size: 16px;
+    font-weight: 400;
+    
+}
+.ph{
+    margin-right:08px;
+}
+.beta {
+    position: absolute;
+    top:06%;
+    left:60%;
+}
+.cen{
+    width: 100%;
+    padding-top:30px;
+}
+.text{
+    
+    position: absolute;
+    top:50%;
+    left:50%;
+    color:white;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Fuggles', cursive; 
+    font-size: 100px;
+    transform: translate(-50%,-50%);
+    
+
+}
+.exp {
+    transform: translate(-50%,-50%);
+    position: absolute;
+    top:70%;
+    left:50%;
+    width: 13%;
+    background-color:#1EC6B6 ;
+    background: #1EC6B6;
+    color: #fff;
+    display: inline-block;
+    padding: 18px 41px;
+    font-family: "Rubik", sans-serif;
+    border:0;
+    
+    
+}
+.exp:hover{
+    background-color:rgb(250, 61, 18);
+}
+.lower {
+    background-color: #040E27;
+    color: white;
+    height: 100px;
+    padding-top:1px;
+}
+.form1 {
+    position: absolute;
+    transform: translate(-20%,-20%);
+    top:90%;
+    left:39%;
+    background-color:#040E27 ;
+}
+.lower {
+    padding-left: 13%;
+}
+.search1 {
+    background-color: rgb(250, 61, 18);
+    height:30px;
+    width: 60px;
+    margin:0%;
+}
+.search1:hover{
+    background-color:#1EC6B6 ;
+}
+.lower2{
+    position: relative;
+    margin:auto;
+    width:30%;
+    padding:10%;
+    font-weight: 400;
+    color:#7A838B;
+}
+.hlow{
+    color:#040E27;
+    padding-bottom:7px;
+    z-index: 0;
+}
+.flex-container{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 3%;
+    padding:3%;
+    height:200px;
+    align-content: space-between;
+    opacity: 0.8;
+}
+.flex-container > div{
+    
+    padding: 10px 03px 05px 0px;
+    overflow: auto;
+}
+.flex-container > div:hover  {
+    
+    
+    padding-top: 0%;
+
+}
+.but1{
+    position: absolute;
+    top:220%;
+    left:20%;
+    transform: translate(-50%,-50%);
+    border-radius: 20%;
+    background-color:#1EC6B6 ;
+    width:20%;
+}
+
+
+.but1:hover {
+    background-color:red;
+}
+.h1{
+    width: 20%;
+    height: 30%;
+    padding-right: 10px;
+}
